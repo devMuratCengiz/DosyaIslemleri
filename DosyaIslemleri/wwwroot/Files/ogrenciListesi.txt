@@ -1,0 +1,8 @@
+1|Fatih Baytar|1A|34
+2|Murat Cengiz|1A|33
+3|Mehmet Selim|2A|33
+4|Ayþe Terim|2A|32
+5|Burcu Özkan|2A|35
+6|Can Dündar|3A|34
+7|Yusuf Öz|3A|33
+1|Fatih Baytar|3A|34
